@@ -1,2 +1,3 @@
-# machine-learning-journey
-Personal repository for hands-on practice, notes, and projects while learning Machine Learning from Andrew Ng, Sidhardhan, and other resources.
+# Machine Learning & AI Journey – Vansh Dokania
+
+This repository documents my journey into the world of Machine Learning and Artificial Intelligence. It includes structured implementations, hands-on practice, and detailed notes based on leading educational resources such as Andrew Ng’s Machine Learning course, Sidhardhan’s YouTube tutorials, GeeksforGeeks, and other industry-standard materials. All projects and exercises are coded in Python using core libraries like NumPy, Pandas, Matplotlib, and scikit-learn. The goal of this repository is to consolidate theory, coding, and applied ML skills into a single resource that reflects my progression toward becoming an AI/ML engineer.
